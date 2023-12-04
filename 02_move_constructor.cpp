@@ -16,9 +16,6 @@
 移动拷贝的作用:数组扩容
 */
 
-#include <iostream>
-#include <cstring>
-
 class MyString{
 private:
     char* _data; 
